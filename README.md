@@ -7,7 +7,7 @@
 
 ## Evolved robots!
 
-![evolved robots](images/xray.mp4)
+![evolved robots](images/xray.gif)
 
 
 | ![Image 0](images/0.png) | ![Image 1](images/1.png) | ![Image 2](images/2.png) |
