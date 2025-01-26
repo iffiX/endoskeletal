@@ -1,4 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
+bpy==4.0.0
 lxml
 numpy
 cma
