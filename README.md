@@ -102,21 +102,23 @@ The RISE simulator is still a work in progress, and currently, the beautiful ani
 are rendered by blender. In our future work, the completed simulator will come with ease to use 
 visualization tools. For now, please be patient, and we will keep you updated.
 
-Usually, we don't save the full record file for evoluted robots to save space. 
-To visualize the history of a robot, you can use the following script `generate_robot_history.py`.
+Usually, we don't save the full record file for evolved robots to save space. 
+To visualize the history of a robot, you can use the following script `scripts/generate_robot_history.py`.
 
 The `data/rl-result/<some-date>/debug-logs` will save the evolution history, by default, we save
 history as `.h5_history` format. You can use `visualize/video_simple.ipynb` to generate a blender
 animation file, which can be then replayed, or rendered to a video file.
 
-If you find any problem in visualizing the robots, please let us know.
+If you find any problem in visualizing the robots, please let us know in the issue tracker.
 
 ## RISE simulator documentation
 We tried our best to document the still-in-progress simulator interface in [rise.md](rise.md), please
 let use us know if you find any usage issue with our current compiled version. But please be aware that
 the simulator is not completed, and future versions will look very different from the current prototype.
 
-Thank you for your understanding.
+Thank you for your understanding. 
+
+If you find any unclear part of the simulator, please let us know in the issue tracker.
 
 ## Citation
 ```bibtex
