@@ -1,7 +1,7 @@
 # Generating Freeform Endoskeletal Robots
-[[Paper]](https://arxiv.org/pdf/2412.01036)    [[Website]](https://endoskeletal.github.io/)
+[[Paper]](https://arxiv.org/pdf/2412.01036)  [[OpenReview]](https://openreview.net/forum?id=awvJBtB2op)  [[Website]](https://endoskeletal.github.io/)
 
-**Status**: Accepted at ICLR 2025 Conference
+**Status**: **Spotlight Paper** accepted at ICLR 2025 Conference
 
 **Authors**: Muhan Li, Lingji Kong, Sam Kriegman
 
